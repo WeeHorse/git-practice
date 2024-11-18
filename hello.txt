@@ -1,14 +1,24 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hello
 David Labett was here
 
 Markus was not here
 =======
+=======
+Hello
+
+Hej
+
+
+git 
+>>>>>>> f9e0bdc32066a6df24b940c32b3bdadb84fca47c
 
 Hello World!!!!!
 
 Hello Pilgrim! // döda inte kattungar
 David Labett was here
+<<<<<<< HEAD
 <<<<<<< HEAD
 
 >>>>>>> 36678d3cc64f134ad422a96995765cc2fc1277c7
@@ -16,3 +26,9 @@ David Labett was here
 >>>>>>> 57deb574be922d24df14a28e3448fae0311bb135
 
 My broskis my BROOOSSS
+=======
+
+
+kan jag pusha denna 
+ hejhej 
+>>>>>>> f9e0bdc32066a6df24b940c32b3bdadb84fca47c
