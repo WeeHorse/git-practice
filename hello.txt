@@ -5,7 +5,14 @@ David Labett was here
 Markus was not here
 =======
 
-Hello Pilgrim!
+Hello World!!!!!
+
+Hello Pilgrim! // döda inte kattungar
 David Labett was here
+<<<<<<< HEAD
 
 >>>>>>> 36678d3cc64f134ad422a96995765cc2fc1277c7
+=======
+>>>>>>> 57deb574be922d24df14a28e3448fae0311bb135
+
+My broskis my BROOOSSS
