@@ -2,3 +2,4 @@
 Hello Pilgrim!
 David Labett was here
 
+public DateTime BreakTime = DateTime.Now;
