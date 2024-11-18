@@ -10,6 +10,9 @@ Hello World!!!!!
 Hello Pilgrim! // döda inte kattungar
 David Labett was here
 
+Malin have seen this
+
+public DateTime BreakTime = DateTime.Now;
 
 kan jag pusha denna 
  hejhej 
