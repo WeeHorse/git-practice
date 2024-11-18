@@ -1,11 +1,8 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 Hello
 David Labett was here
 
 Markus was not here
-=======
-=======
 Hello
 David Labett was here
 
@@ -17,7 +14,6 @@ Hej
 goddag
 
 git 
->>>>>>> f9e0bdc32066a6df24b940c32b3bdadb84fca47c
 
 Hello Pilgrim!
 Hejsan!
@@ -25,15 +21,8 @@ Hello World!!!!!
 
 Hello Pilgrim! // döda inte kattungar
 David Labett was here
-<<<<<<< HEAD
-<<<<<<< HEAD
-
->>>>>>> 36678d3cc64f134ad422a96995765cc2fc1277c7
-=======
->>>>>>> 57deb574be922d24df14a28e3448fae0311bb135
 
 My broskis my BROOOSSS
-=======
 
 Malin have seen this
 dasdas
@@ -41,10 +30,6 @@ public DateTime BreakTime = DateTime.Now;
 
 kan jag pusha denna 
  hejhej 
-<<<<<<< HEAD
->>>>>>> f9e0bdc32066a6df24b940c32b3bdadb84fca47c
-=======
 
 
 David Labett is a cutie
->>>>>>> e2bb00d3211950e8c2afa4b47da1e5a00d46aaf3
