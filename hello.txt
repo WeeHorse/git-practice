@@ -7,13 +7,20 @@ Markus was not here
 =======
 =======
 Hello
+David Labett was here
+
+What do you call a loan shark without any friends?
+-- A lone shark
 
 Hej
 
+goddag
 
 git 
 >>>>>>> f9e0bdc32066a6df24b940c32b3bdadb84fca47c
 
+Hello Pilgrim!
+Hejsan!
 Hello World!!!!!
 
 Hello Pilgrim! // döda inte kattungar
@@ -28,7 +35,16 @@ David Labett was here
 My broskis my BROOOSSS
 =======
 
+Malin have seen this
+dasdas
+public DateTime BreakTime = DateTime.Now;
 
 kan jag pusha denna 
  hejhej 
+<<<<<<< HEAD
 >>>>>>> f9e0bdc32066a6df24b940c32b3bdadb84fca47c
+=======
+
+
+David Labett is a cutie
+>>>>>>> e2bb00d3211950e8c2afa4b47da1e5a00d46aaf3
