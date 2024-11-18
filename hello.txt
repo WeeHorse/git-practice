@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 Hello
 David Labett was here
 
 Markus was not here
+=======
+
+Hello Pilgrim!
+David Labett was here
+
+>>>>>>> 36678d3cc64f134ad422a96995765cc2fc1277c7
